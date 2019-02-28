@@ -8,7 +8,7 @@ let House = function(color) {
     obj.door = 'open';
   };
 
-  obj.closeDorr = function() {
+  obj.closeDoor = function() {
     obj.door = 'closed';
   };
 
